@@ -5,7 +5,7 @@ import 'dart:developer';
 import 'package:dio/adapter.dart';
 import 'package:telsavideo/screens/home/home.dart';
 import 'package:telsavideo/services/interceptor.dart' as postreq;
-import 'package:telsavideo/common/SizeConfig.dart';
+import 'package:telsavideo/common/sizeconfig.dart';
 import 'package:dio/dio.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
